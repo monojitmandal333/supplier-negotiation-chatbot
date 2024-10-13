@@ -8,3 +8,8 @@ langchain-chroma
 beautifulsoup4
 ipykernel
 python-dotenv
+langgraph 
+langsmith 
+langchain_anthropic
+tavily-python 
+langchain_community
